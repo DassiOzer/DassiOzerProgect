@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
 ## Hi there 👋
@@ -18,3 +19,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 >>>>>>> 2d7b536d45e7e4410875155c7a9e7a1baeda8315
+=======
+# hw
+>>>>>>> 8d509077145926330325e3e0cee14660cffe9687
