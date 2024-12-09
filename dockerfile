@@ -11,7 +11,7 @@ RUN pip install --trusted-host pypi.org --trusted-host files.pythonhosted.org -r
 
 COPY . .
 # Expose the port on which the Flask app will run
-EXPOSE 5000
+EXPOSE 8080
 
 ENV ROOM_FILES_PATH "rooms/"
 ENV USERS_PATH "users.csv"
